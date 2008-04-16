@@ -1,0 +1,10 @@
+#summary Code Samples for YTsaver
+#labels Featured,Phase-Implementation
+
+== Sample Usage: ==
+{{{
+<form method="get" action="ytsaver.inc.php">
+<input type="text" name="youtube" style="width: 323px" />
+<input type="submit" value="Download Video" />
+</form>
+}}}
